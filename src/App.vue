@@ -11,6 +11,10 @@
   <div class="card-list">
     <CardItem v-for="(p, index) in list" :key="index" :pokemon="p"></CardItem>
   </div>
+  <div class="btn-area">
+    <button @click="onPrev">上一頁</button>
+    <button @click="onNext">下一頁</button>
+  </div>
 </template>
 
 <script>
@@ -23,11 +27,34 @@ export default {
     CardItem,
   },
   data: function () {
+    let list = Pokemons.data.slice(0, 8);
     return {
-      list: Pokemons.data,
+      Pokemons: Pokemons.data,
+      list,
+      page: 1,
+      size: 8,
     };
   },
   created() {},
+  methods: {
+    refreash() {
+      let s = (this.page - 1) * this.size;
+      console.log(this.page, s);
+      this.list = this.Pokemons.slice(s, s + this.size);
+    },
+    onPrev() {
+      if (this.page - 1 > 0) {
+        this.page--;
+      }
+      this.refreash();
+    },
+    onNext() {
+      if (this.page + 1 <= this.Pokemons.length / this.size + 1) {
+        this.page++;
+      }
+      this.refreash();
+    },
+  },
 };
 </script>
 
@@ -47,5 +74,10 @@ export default {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+}
+
+.btn-area {
+  display: flex;
+  justify-content: space-between;
 }
 </style>
