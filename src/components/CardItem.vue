@@ -5,7 +5,11 @@
     </div>
     <div>
       <div class="types">
-        <TypeItem v-for="t in pokemon.type" :key="t" :type="t"></TypeItem>
+        <TypeItem
+          v-for="t in pokemon.pokemon_type_name.split(',')"
+          :key="t"
+          :type="t"
+        ></TypeItem>
       </div>
       <div class="name">{{ pokemon.name }}</div>
     </div>
@@ -27,6 +31,7 @@ export default {
         imgId += `-${this.pokemon.zukan_sub_id}`;
       return `/images/pokemons/${imgId}.png`;
     },
+    
   },
 };
 </script>
