@@ -1,4 +1,8 @@
-import { createApp } from 'vue'
+import '@fortawesome/fontawesome-free/css/all.css'
+import '@fortawesome/fontawesome-free/js/all.js'
+
+import * as Vue from 'vue' // in Vue 3
 import App from './App.vue'
 
-createApp(App).mount('#app')
+const app = Vue.createApp(App);
+app.mount('#app');

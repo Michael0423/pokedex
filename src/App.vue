@@ -14,39 +14,24 @@
 </template>
 
 <script>
-import CardItem from './components/CardItem.vue'
+import CardItem from "./components/CardItem.vue";
+import Pokemons from "./data.js";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    CardItem
+    CardItem,
   },
-  data: function() {
+  data: function () {
     return {
-      list: [
-        {
-          id: 1,
-          name: 'A',
-          type: ['normal'],
-          imgUrl: '#'
-        },
-        {
-          id: 1,
-          name: 'B',
-          type: ['water', 'fly'],
-          imgUrl: '#'
-        }
-      ]
-    }
+      list: Pokemons.data,
+    };
   },
-  created() {
-
-  }
-}
+  created() {},
+};
 </script>
 
 <style lang="scss" scoped>
-
 .nav-bar {
   display: flex;
   justify-content: flex-end;
@@ -57,9 +42,10 @@ export default {
 }
 
 .card-list {
+  width: 80%;
+  margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
 }
-
 </style>
