@@ -8,6 +8,12 @@
     </div>
   </div>
   <SearchBar @filter="filter"></SearchBar>
+  <div>每頁筆數:<select v-model="size" @change="changeSize">
+    <option value="8">8</option>
+    <option value="10">10</option>
+    <option value="50">50</option>
+    <option value="100">100</option>
+  </select></div>
   <div class="card-list">
     <CardItem v-for="(p, index) in list" :key="index" :pokemon="p"></CardItem>
   </div>
@@ -29,21 +35,28 @@ export default {
     SearchBar   
   },
   data: function () {
-    let list = Pokemons.data.slice(0, 8);
     return {
       Pokemons: Pokemons.data,
-      list,
+      list: [],
       page: 1,
       size: 8,
-      search: {}
+      search: {
+        keyword: ''
+      }
     };
   },
-  created() {},
+  mounted() {
+    this.refreash();
+  },
   methods: {
     refreash() {
-      let s = (this.page - 1) * this.size;
-
-      this.list = this.Pokemons.slice(s, s + this.size);
+        let keyword = this.search.keyword;
+      let size = +this.size;
+      let s = (this.page - 1) * size;
+      let filterData = (keyword)
+        ? this.Pokemons.filter(e => e.name.indexOf(keyword) > -1)
+        : this.Pokemons;
+      this.list = filterData.slice(s, s + size);
     },
     onPrev() {
       if (this.page - 1 > 0) {
@@ -57,8 +70,12 @@ export default {
       }
       this.refreash();
     },
-    filter(search){
+    filter(search) {
         this.search = search;
+        this.refreash();
+    },  
+    changeSize() {
+        this.page = 1;
         this.refreash();
     }
   },
