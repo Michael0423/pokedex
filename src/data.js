@@ -9,7 +9,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 6.9,
         "height": 0.7,
-        "file_name": "/img/pm/cf47f9fac4ed3037ff2a8ea83204e32aff8fb5f3.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1JvabIxVsBNFz5ut_jEtPN6vBgqbg8NQS",
         "pokemon_type_id": "grass,poison",
         "pokemon_type_name": "草,毒"
     },
@@ -20,7 +20,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 13,
         "height": 1,
-        "file_name": "/img/pm/3245e4f8c04aa0619cb31884dbf123c6918b3700.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1qwFNg3aiGF3OCQxW2PKYSg1zLtz9sLoc",
         "pokemon_type_id": "grass,poison",
         "pokemon_type_name": "草,毒"
     },
@@ -31,7 +31,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 100,
         "height": 2,
-        "file_name": "/img/pm/0186d64c5773c8d3d03cd05dc79574b2d2798d4f.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1juaxZF0TCKPaYdSGmNSslOYRdgy-XTjk",
         "pokemon_type_id": "grass,poison",
         "pokemon_type_name": "草,毒"
     },
@@ -42,18 +42,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 155.5,
         "height": 2.4,
-        "file_name": "/img/pm/3bfcc4360c44f37815dc1e59f75818935cbfc41b.png",
-        "pokemon_type_id": "grass,poison",
-        "pokemon_type_name": "草,毒"
-    },
-    {
-        "id": "003",
-        "zukan_sub_id": 2,
-        "name": "妙蛙花",
-        "pokemon_sub_name": "超極巨化",
-        "weight": 999.99,
-        "height": 24,
-        "file_name": "/img/pm/6b55babb3825ef9fa9e5d9ff44a14bdb8406ce97.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1fnakn4W87dySn8BbVDoP_daqY79AA-1j",
         "pokemon_type_id": "grass,poison",
         "pokemon_type_name": "草,毒"
     },
@@ -64,7 +53,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 8.5,
         "height": 0.6,
-        "file_name": "/img/pm/d0ee81f16175c97770192fb691fdda8da1f4f349.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1IiLn68GjM4UZeF-YhfAzyMVnZj1Z7Ub7",
         "pokemon_type_id": "fire",
         "pokemon_type_name": "火"
     },
@@ -75,7 +64,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 19,
         "height": 1.1,
-        "file_name": "/img/pm/285395ca77d82861fd30cea64567021a50c1169c.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1QX0RA30rkOUBvi-K6hIZ2xXW4O5yqQj_",
         "pokemon_type_id": "fire",
         "pokemon_type_name": "火"
     },
@@ -86,7 +75,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 90.5,
         "height": 1.7,
-        "file_name": "/img/pm/2050f1fd1283f473d7d048f8631712e7e003f802.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1_fjI1g81TA2zUkOFnjAfAahay6m3uGhf",
         "pokemon_type_id": "fire,flying",
         "pokemon_type_name": "火,飛行"
     },
@@ -97,7 +86,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 110.5,
         "height": 1.7,
-        "file_name": "/img/pm/ca3db4aad5c85a525d9be86852b26db1db7a22c0.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1Ox8cTD8STWqVAJy_q9xAXYYUXULSjAsQ",
         "pokemon_type_id": "fire,dragon",
         "pokemon_type_name": "火,龍"
     },
@@ -108,18 +97,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 100.5,
         "height": 1.7,
-        "file_name": "/img/pm/0aa78a0061bda9d88cbb0bbf739cd9cc56522fe9.png",
-        "pokemon_type_id": "fire,flying",
-        "pokemon_type_name": "火,飛行"
-    },
-    {
-        "id": "006",
-        "zukan_sub_id": 3,
-        "name": "噴火龍",
-        "pokemon_sub_name": "超極巨化",
-        "weight": 999.99,
-        "height": 28,
-        "file_name": "/img/pm/2fd12098f15628cce80d411e090189aeb7d758ff.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1hTtk9XHKMrP34jtKQ34fpYO6IfLAd5vi",
         "pokemon_type_id": "fire,flying",
         "pokemon_type_name": "火,飛行"
     },
@@ -130,7 +108,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 9,
         "height": 0.5,
-        "file_name": "/img/pm/5794f0251b1180998d72d1f8568239620ff5279c.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1SYQToA7rrsDM1FHEiX16l_DIV0R8ZY43",
         "pokemon_type_id": "water",
         "pokemon_type_name": "水"
     },
@@ -141,7 +119,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 22.5,
         "height": 1,
-        "file_name": "/img/pm/a3bc17e6215031332462cc64e59b7922ddd14b91.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=15O69sYjxPkWk2-FYj-H0gwsKEXS2PrQg",
         "pokemon_type_id": "water",
         "pokemon_type_name": "水"
     },
@@ -152,7 +130,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 85.5,
         "height": 1.6,
-        "file_name": "/img/pm/2fe157db59153af8abd636ab03c7df6f28b08242.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=199XtAEK8gBEnvpPzN-h8A4nvv-i1bkr4",
         "pokemon_type_id": "water",
         "pokemon_type_name": "水"
     },
@@ -163,18 +141,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 101.1,
         "height": 1.6,
-        "file_name": "/img/pm/00186af714a048895ba8116e71b08671c3cfb8f5.png",
-        "pokemon_type_id": "water",
-        "pokemon_type_name": "水"
-    },
-    {
-        "id": "009",
-        "zukan_sub_id": 2,
-        "name": "水箭龜",
-        "pokemon_sub_name": "超極巨化",
-        "weight": 999.99,
-        "height": 25,
-        "file_name": "/img/pm/50eba0f85c4e9a039be078e7de0b10acc7323264.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1dZ0PhvsuAbGXoxiNt881pU8Wq6NN6kl7",
         "pokemon_type_id": "water",
         "pokemon_type_name": "水"
     },
@@ -185,7 +152,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 2.9,
         "height": 0.3,
-        "file_name": "/img/pm/68f0cec6bcba20a0c53db3d8cfce81bd319d2c82.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1EXCd4FnOqhbIhpSekOIondGHu7MZquRQ",
         "pokemon_type_id": "bug",
         "pokemon_type_name": "蟲"
     },
@@ -196,7 +163,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 9.9,
         "height": 0.7,
-        "file_name": "/img/pm/05fd4676fa4a4b58288510a97a5211e066e02464.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1A41Q8TiKPM8z4WIOhiOjR2l1S7wL-T7E",
         "pokemon_type_id": "bug",
         "pokemon_type_name": "蟲"
     },
@@ -207,18 +174,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 32,
         "height": 1.1,
-        "file_name": "/img/pm/eacd20285cb634ba9fea41fc0fa13871c2fcbc66.png",
-        "pokemon_type_id": "bug,flying",
-        "pokemon_type_name": "蟲,飛行"
-    },
-    {
-        "id": "012",
-        "zukan_sub_id": 1,
-        "name": "巴大蝶",
-        "pokemon_sub_name": "超極巨化",
-        "weight": 999.99,
-        "height": 17,
-        "file_name": "/img/pm/b76026363e301dbd8ac3f084e7d242232c46c95f.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1OZXnEQWqOUHSdnyG6SJ4ZYDxJAKGEDi3",
         "pokemon_type_id": "bug,flying",
         "pokemon_type_name": "蟲,飛行"
     },
@@ -229,7 +185,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 3.2,
         "height": 0.3,
-        "file_name": "/img/pm/5ae74d403ec682eaf13e066850afd4b0c20d85f7.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1kaRFQLJBPmSJxczaIbvcN423FMOuwwr0",
         "pokemon_type_id": "bug,poison",
         "pokemon_type_name": "蟲,毒"
     },
@@ -240,7 +196,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 10,
         "height": 0.6,
-        "file_name": "/img/pm/dd41f31a3c97f1f9d998361b125362584873157b.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1Iigph3p2fWQuyRIHQUUOJ0VY9MBswwGD",
         "pokemon_type_id": "bug,poison",
         "pokemon_type_name": "蟲,毒"
     },
@@ -251,7 +207,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 29.5,
         "height": 1,
-        "file_name": "/img/pm/70f4206271b72492c9ba71d708d6183a80ba0e96.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1FCh5NGlZtZjOpKeRkRbpFBAJdxs6xBil",
         "pokemon_type_id": "bug,poison",
         "pokemon_type_name": "蟲,毒"
     },
@@ -262,7 +218,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 40.5,
         "height": 1.4,
-        "file_name": "/img/pm/e12ce48ab99b2df6fbbc1e97038c4f6e192d09d7.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1l-NuqxESC0IAmOk0dKKQDg72jH6Rb8eh",
         "pokemon_type_id": "bug,poison",
         "pokemon_type_name": "蟲,毒"
     },
@@ -273,7 +229,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 1.8,
         "height": 0.3,
-        "file_name": "/img/pm/0e7c6e616404c683f00701b591eeab56e465641a.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1wtz-l8OICAgFTTYbSdu7SW-JNxDl1aCd",
         "pokemon_type_id": "normal,flying",
         "pokemon_type_name": "一般,飛行"
     },
@@ -284,7 +240,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 30,
         "height": 1.1,
-        "file_name": "/img/pm/a2935587b7c61e6e6da88da3578d700c133246e5.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=10_E5kBoE2I4pOP3yUfdqt_S44p2iqpxG",
         "pokemon_type_id": "normal,flying",
         "pokemon_type_name": "一般,飛行"
     },
@@ -295,7 +251,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 39.5,
         "height": 1.5,
-        "file_name": "/img/pm/01e13954dff668c1420407c98b308c81b83f6dda.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1W_L9GBXa-2bCV1vSGhWD4z0L4uhETyT-",
         "pokemon_type_id": "normal,flying",
         "pokemon_type_name": "一般,飛行"
     },
@@ -306,7 +262,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 50.5,
         "height": 2.2,
-        "file_name": "/img/pm/dd6ab4ce8e7d05fb74e50cf66764e3ed8e11a097.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1iIBGv9z_OxcfEZymRBsAmxh-5jaBof_R",
         "pokemon_type_id": "normal,flying",
         "pokemon_type_name": "一般,飛行"
     },
@@ -317,7 +273,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 3.5,
         "height": 0.3,
-        "file_name": "/img/pm/3e4b38ab7545ebd938154d9aed9502cb068569d6.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1wPdxbjhucgeroH6P7SbbshxJ6mIgu9L2",
         "pokemon_type_id": "normal",
         "pokemon_type_name": "一般"
     },
@@ -328,7 +284,7 @@ let data = [
         "pokemon_sub_name": "阿羅拉的樣子",
         "weight": 3.8,
         "height": 0.3,
-        "file_name": "/img/pm/3567693e3479fb0cf15b9ec84ee8a033aa7b4310.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1TrsTpvuqzXwF3lUr1tvSuMcu3hEMQOmS",
         "pokemon_type_id": "dark,normal",
         "pokemon_type_name": "惡,一般"
     },
@@ -339,7 +295,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 18.5,
         "height": 0.7,
-        "file_name": "/img/pm/e97c62e4e4b46017be60806d00f4d389d003f115.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1cfK3iIDCP75zaop6YIxAsOvygOhRX2Lb",
         "pokemon_type_id": "normal",
         "pokemon_type_name": "一般"
     },
@@ -350,7 +306,7 @@ let data = [
         "pokemon_sub_name": "阿羅拉的樣子",
         "weight": 25.5,
         "height": 0.7,
-        "file_name": "/img/pm/a30454b7040a4a517bfe0914777e2e7c045f6c65.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1QwdTHndeCD-3JKD1NKEWpLirofzKeCMZ",
         "pokemon_type_id": "dark,normal",
         "pokemon_type_name": "惡,一般"
     },
@@ -361,7 +317,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 2,
         "height": 0.3,
-        "file_name": "/img/pm/e815cb4b8ba9c2d0841dfa364c87164880944e3a.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1cw6_3WbwkYcwjNEhZxIot9WkEYX8pcbY",
         "pokemon_type_id": "normal,flying",
         "pokemon_type_name": "一般,飛行"
     },
@@ -372,7 +328,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 38,
         "height": 1.2,
-        "file_name": "/img/pm/8b326a6f77b73b3c250ba95f3a97fc21b28c8f4b.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1UAVsLkAythGDtEJQBkR-bs5PwCkdGKC7",
         "pokemon_type_id": "normal,flying",
         "pokemon_type_name": "一般,飛行"
     },
@@ -383,7 +339,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 6.9,
         "height": 2,
-        "file_name": "/img/pm/ad90ec632849d032615d707ebe8ad741651eee06.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1GUEYef7gceQGmVvlr482e4JUsZGzxVYp",
         "pokemon_type_id": "poison",
         "pokemon_type_name": "毒"
     },
@@ -394,7 +350,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 65,
         "height": 3.5,
-        "file_name": "/img/pm/eb3c14ed44c1e4a2ba4c2d7970cddf07cd8ef67f.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1hVJc37bUymlB7_7ZK-nSvtXyka-fzBiu",
         "pokemon_type_id": "poison",
         "pokemon_type_name": "毒"
     },
@@ -405,18 +361,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 6,
         "height": 0.4,
-        "file_name": "/img/pm/2b3f6ff00db7a1efae21d85cfb8995eaff2da8d8.png",
-        "pokemon_type_id": "electric",
-        "pokemon_type_name": "電"
-    },
-    {
-        "id": "025",
-        "zukan_sub_id": 1,
-        "name": "皮卡丘",
-        "pokemon_sub_name": "超極巨化",
-        "weight": 999.99,
-        "height": 21,
-        "file_name": "/img/pm/a90881f103830615ee7f85e16fe9f586d41f2332.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=192elOJ4oPKu-zeP8Sayq1t6Vv5JGMgcB",
         "pokemon_type_id": "electric",
         "pokemon_type_name": "電"
     },
@@ -427,7 +372,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 30,
         "height": 0.8,
-        "file_name": "/img/pm/9c28defa939e230800ec0d0c421d9f82c60df77a.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1N7H5d7yUxoopWngF3iyiLMlKfg4VL7ge",
         "pokemon_type_id": "electric",
         "pokemon_type_name": "電"
     },
@@ -438,7 +383,7 @@ let data = [
         "pokemon_sub_name": "阿羅拉的樣子",
         "weight": 21,
         "height": 0.7,
-        "file_name": "/img/pm/8be55a3ff2b24890fac0b9e2415dda9d0f893c1f.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1DwzWoxLLggw3xjd-sbgBcCWnMqxiU7rY",
         "pokemon_type_id": "electric,psychic",
         "pokemon_type_name": "電,超能力"
     },
@@ -449,7 +394,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 12,
         "height": 0.6,
-        "file_name": "/img/pm/f5fcf7a292a180320138ace7235f8a2c16f6594a.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1vxhQkdj3wCVkHImM0C2O_XsCP6qIGA19",
         "pokemon_type_id": "ground",
         "pokemon_type_name": "地面"
     },
@@ -460,7 +405,7 @@ let data = [
         "pokemon_sub_name": "阿羅拉的樣子",
         "weight": 40,
         "height": 0.7,
-        "file_name": "/img/pm/d9ea1612a6ec53ba12e2d9abe28f99e66021bde1.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=10vSElL1JfVmpgrWX_vsKRFFjWsshKw55",
         "pokemon_type_id": "ice,steel",
         "pokemon_type_name": "冰,鋼"
     },
@@ -471,7 +416,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 29.5,
         "height": 1,
-        "file_name": "/img/pm/d00d72f082b7dae546fa8bd5cf09fcfe53ffcae8.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1sI3WpiXLgLS_CPlyd_DERwFTf4nNQQR0",
         "pokemon_type_id": "ground",
         "pokemon_type_name": "地面"
     },
@@ -482,7 +427,7 @@ let data = [
         "pokemon_sub_name": "阿羅拉的樣子",
         "weight": 55,
         "height": 1.2,
-        "file_name": "/img/pm/cc154af4dcd20d14aba494a6a679f528bb9f3d6d.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1ZLcAEGjmw5w2hMMONZuR8isw1btfifrB",
         "pokemon_type_id": "ice,steel",
         "pokemon_type_name": "冰,鋼"
     },
@@ -493,7 +438,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 7,
         "height": 0.4,
-        "file_name": "/img/pm/14179c8ab9c2003fc5b27a29e91e4cd195283d52.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1ozsFplZsjeS7r3DMrclVwEzSN_AW-2ta",
         "pokemon_type_id": "poison",
         "pokemon_type_name": "毒"
     },
@@ -504,7 +449,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 20,
         "height": 0.8,
-        "file_name": "/img/pm/fed980fd2341745923812e9dcd88a039aaaf36ea.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=14xu-KPIKGDBokPMqz_ieIXR0wV2GOJ6Z",
         "pokemon_type_id": "poison",
         "pokemon_type_name": "毒"
     },
@@ -515,7 +460,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 60,
         "height": 1.3,
-        "file_name": "/img/pm/5174a41a9db00baf5dd664c92a12254b0baa5fde.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1imoV7mk8IecWU4TK-DJNTIpoK_wub7E-",
         "pokemon_type_id": "poison,ground",
         "pokemon_type_name": "毒,地面"
     },
@@ -526,7 +471,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 9,
         "height": 0.5,
-        "file_name": "/img/pm/237579eaf2141edad61d647c62f074d53653337b.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=10AnoyjiFuPleYUyvlYh3qYUL_GF3KXPJ",
         "pokemon_type_id": "poison",
         "pokemon_type_name": "毒"
     },
@@ -537,7 +482,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 19.5,
         "height": 0.9,
-        "file_name": "/img/pm/f3d8e45646fb05516dff845922c3d62d9aa33cbe.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1I9KJaxwmN7v9vviqtS8nJ8dWGSkBIrL2",
         "pokemon_type_id": "poison",
         "pokemon_type_name": "毒"
     },
@@ -548,7 +493,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 62,
         "height": 1.4,
-        "file_name": "/img/pm/ce24d9eb27f4e554ea5bd29840a35957f7bd9d30.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=12PU5-ChNXOaPSGSAsHvGgRTuOHea2mcv",
         "pokemon_type_id": "poison,ground",
         "pokemon_type_name": "毒,地面"
     },
@@ -559,7 +504,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 7.5,
         "height": 0.6,
-        "file_name": "/img/pm/18e9dc86ced1320d6846f2c192c4eb04e517963a.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1x8pPUZd8ETUe5_6_QnbaEhefkRiNtidI",
         "pokemon_type_id": "fairy",
         "pokemon_type_name": "妖精"
     },
@@ -570,7 +515,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 40,
         "height": 1.3,
-        "file_name": "/img/pm/1865f85f9e417522f8de1a239fbff27f2106783b.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1P7aYV9muloQAh9GD6CNbwvcp_-EGCes4",
         "pokemon_type_id": "fairy",
         "pokemon_type_name": "妖精"
     },
@@ -581,7 +526,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 9.9,
         "height": 0.6,
-        "file_name": "/img/pm/f285c634efd141918f6ad066a6f59c20746d9050.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1PNM0ODkLfmaE5DwWtH0p8WcBZI2-VS2u",
         "pokemon_type_id": "fire",
         "pokemon_type_name": "火"
     },
@@ -592,7 +537,7 @@ let data = [
         "pokemon_sub_name": "阿羅拉的樣子",
         "weight": 9.9,
         "height": 0.6,
-        "file_name": "/img/pm/89719dbcbddd11a1e6bc5f4366e00910a04eaf9f.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1kOGjRRZCKKaXM--VOnd-qo7iyeJkhpEp",
         "pokemon_type_id": "ice",
         "pokemon_type_name": "冰"
     },
@@ -603,7 +548,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 19.9,
         "height": 1.1,
-        "file_name": "/img/pm/cc96e6a4eee980724ebd725bb8785334d3290074.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1ZkN7QwRnSNlSkYKaiS0mSx6mJnI5wTxL",
         "pokemon_type_id": "fire",
         "pokemon_type_name": "火"
     },
@@ -614,7 +559,7 @@ let data = [
         "pokemon_sub_name": "阿羅拉的樣子",
         "weight": 19.9,
         "height": 1.1,
-        "file_name": "/img/pm/397b20ea73c8358185d6f1d2971b5825b0cb0baf.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1xol90d1jgdprfYuiGSpl_ws3FwE7aFLQ",
         "pokemon_type_id": "ice,fairy",
         "pokemon_type_name": "冰,妖精"
     },
@@ -625,7 +570,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 5.5,
         "height": 0.5,
-        "file_name": "/img/pm/7a2bec0dd522d66353f0cf3df9148070456a3349.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1N4NzLZh6LPk4oOuCX5Gfd0VbITTQVCWL",
         "pokemon_type_id": "normal,fairy",
         "pokemon_type_name": "一般,妖精"
     },
@@ -636,7 +581,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 12,
         "height": 1,
-        "file_name": "/img/pm/b3724395d41de1d0def948966c69148bd9f0f9c1.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1cs7zFPy_3L5XB2tu8qJn2PLRvdXCnc0-",
         "pokemon_type_id": "normal,fairy",
         "pokemon_type_name": "一般,妖精"
     },
@@ -647,7 +592,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 7.5,
         "height": 0.8,
-        "file_name": "/img/pm/5d54b9d9cefa287ea258517537ba26f4103dda36.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1BccsdlHBApAYISYWyaogicFHe5kf4UvN",
         "pokemon_type_id": "poison,flying",
         "pokemon_type_name": "毒,飛行"
     },
@@ -658,7 +603,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 55,
         "height": 1.6,
-        "file_name": "/img/pm/cedbf9afd3155d3df1e2ffebf049902598ebd74b.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1VJLlACuwdnKn9ywhYQrJLIb2NLYqyNUc",
         "pokemon_type_id": "poison,flying",
         "pokemon_type_name": "毒,飛行"
     },
@@ -669,7 +614,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 5.4,
         "height": 0.5,
-        "file_name": "/img/pm/6bad448cb0997a928b94e72b67eacb861271f796.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1B7DZe38Eh3XLsMmMKngAXAw4AFzt5ZKb",
         "pokemon_type_id": "grass,poison",
         "pokemon_type_name": "草,毒"
     },
@@ -680,7 +625,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 8.6,
         "height": 0.8,
-        "file_name": "/img/pm/62973d0fc5f9bd5d8c819b8c885bd1f216983ff1.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1yKXXgWgGgoNZauG1MYjk3Hst7sLsK4_Q",
         "pokemon_type_id": "grass,poison",
         "pokemon_type_name": "草,毒"
     },
@@ -691,7 +636,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 18.6,
         "height": 1.2,
-        "file_name": "/img/pm/a95af5f577260373074117cb756e5ea38cd674ef.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1V7x7i-7ogrK318BZjxgBxI6v75YOEjgf",
         "pokemon_type_id": "grass,poison",
         "pokemon_type_name": "草,毒"
     },
@@ -702,7 +647,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 5.4,
         "height": 0.3,
-        "file_name": "/img/pm/837bcac8efc9329d9e3b9e46e95670a5d493b60a.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1dvh3OsuzmJBUHVAKeWRfRACRYv2dI2iE",
         "pokemon_type_id": "bug,grass",
         "pokemon_type_name": "蟲,草"
     },
@@ -713,7 +658,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 29.5,
         "height": 1,
-        "file_name": "/img/pm/e5838e76eb33d88601ba9d6e045e1bdf7e20f46a.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1RUvYK_Am8ScUVDk0PshWwIIO9k4g2Eyk",
         "pokemon_type_id": "bug,grass",
         "pokemon_type_name": "蟲,草"
     },
@@ -724,7 +669,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 30,
         "height": 1,
-        "file_name": "/img/pm/8b550ab54d22a87dc784ee1af6cff4ad33aa10a2.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1pMJ2B9tYwNwd1oPWDeSasvJmDze1ammp",
         "pokemon_type_id": "bug,poison",
         "pokemon_type_name": "蟲,毒"
     },
@@ -735,7 +680,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 12.5,
         "height": 1.5,
-        "file_name": "/img/pm/c57d464a64424f031a9872f2ec3f7c0b8052d3c1.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1xy37F8vj-F9__st7BjPvvfnFoPzCoQoY",
         "pokemon_type_id": "bug,poison",
         "pokemon_type_name": "蟲,毒"
     },
@@ -746,7 +691,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 0.8,
         "height": 0.2,
-        "file_name": "/img/pm/583fa625d6fda586a5734f5f9e455952aa6af15f.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=13upUIUqILPTVWox7PHs-56kqmNTm0xmJ",
         "pokemon_type_id": "ground",
         "pokemon_type_name": "地面"
     },
@@ -757,7 +702,7 @@ let data = [
         "pokemon_sub_name": "阿羅拉的樣子",
         "weight": 1,
         "height": 0.2,
-        "file_name": "/img/pm/19bd3a09933b3e9a0a7156ef294091922dbf771e.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1EN4Kc3nwkpsp1TphnV30K03q78CLuMqZ",
         "pokemon_type_id": "ground,steel",
         "pokemon_type_name": "地面,鋼"
     },
@@ -768,7 +713,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 33.3,
         "height": 0.7,
-        "file_name": "/img/pm/de7c2ea1a9f39427b4732a6122284f257f9e87aa.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1f-u7k-yj_ffamfBT75sPxgUv0W7UHulA",
         "pokemon_type_id": "ground",
         "pokemon_type_name": "地面"
     },
@@ -779,7 +724,7 @@ let data = [
         "pokemon_sub_name": "阿羅拉的樣子",
         "weight": 66.6,
         "height": 0.7,
-        "file_name": "/img/pm/7ba9403c475a889eadffb71b6cceae6e13c91a8e.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1ZAqwdEKlG2qfqEa_JOqCn8Zaafdn2_PR",
         "pokemon_type_id": "ground,steel",
         "pokemon_type_name": "地面,鋼"
     },
@@ -790,7 +735,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 4.2,
         "height": 0.4,
-        "file_name": "/img/pm/6ea01871238908780334293e6407033650d803a9.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1rEq2rHfDFbUJ18PGQRBQ9ZO8K-l6ckxV",
         "pokemon_type_id": "normal",
         "pokemon_type_name": "一般"
     },
@@ -801,31 +746,9 @@ let data = [
         "pokemon_sub_name": "阿羅拉的樣子",
         "weight": 4.2,
         "height": 0.4,
-        "file_name": "/img/pm/57a0c88227aa0fe2327d79af31eb9516d4728752.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1a88WE9NMqckwfgvD3zrnfJjzONB_wS18",
         "pokemon_type_id": "dark",
         "pokemon_type_name": "惡"
-    },
-    {
-        "id": "052",
-        "zukan_sub_id": 2,
-        "name": "喵喵",
-        "pokemon_sub_name": "伽勒爾的樣子",
-        "weight": 7.5,
-        "height": 0.4,
-        "file_name": "/img/pm/704fc0cde74c862f2063faefcf40eb67752a8637.png",
-        "pokemon_type_id": "steel",
-        "pokemon_type_name": "鋼"
-    },
-    {
-        "id": "052",
-        "zukan_sub_id": 3,
-        "name": "喵喵",
-        "pokemon_sub_name": "超極巨化",
-        "weight": 999.99,
-        "height": 33,
-        "file_name": "/img/pm/bff57f3b31012cef1da149224a84180492f90ed4.png",
-        "pokemon_type_id": "normal",
-        "pokemon_type_name": "一般"
     },
     {
         "id": "053",
@@ -834,7 +757,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 32,
         "height": 1,
-        "file_name": "/img/pm/8da0bb6b5587f2150f41b08e0d61a80827d7229f.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1MdiSQBbxdIB1bbf3jUC-aYaanwL7qLn7",
         "pokemon_type_id": "normal",
         "pokemon_type_name": "一般"
     },
@@ -845,7 +768,7 @@ let data = [
         "pokemon_sub_name": "阿羅拉的樣子",
         "weight": 33,
         "height": 1.1,
-        "file_name": "/img/pm/4341e35269528c91e75b6516b820804a37d9eebf.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1l-PZiaweQct5SarqQzr8QElEKlEohVZP",
         "pokemon_type_id": "dark",
         "pokemon_type_name": "惡"
     },
@@ -856,7 +779,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 19.6,
         "height": 0.8,
-        "file_name": "/img/pm/0783062d0d860b8ae7d8e859241a700359c4d981.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1b0hpZffcw0xa1Qbh-78Z1WYK2rpvRoQJ",
         "pokemon_type_id": "water",
         "pokemon_type_name": "水"
     },
@@ -867,7 +790,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 76.6,
         "height": 1.7,
-        "file_name": "/img/pm/0dd5b6e921f55c5d49978b84ee66e458336518ae.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1DdeTvsciNCc-7u0xZGnFo-5gK1a1XvN4",
         "pokemon_type_id": "water",
         "pokemon_type_name": "水"
     },
@@ -878,7 +801,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 28,
         "height": 0.5,
-        "file_name": "/img/pm/00fb5703d7c2b7a89933bbed89f4c84e48c59ea2.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1SMZb5TPLoaVsygaaFEZohe2AyZzYq7Eh",
         "pokemon_type_id": "fighting",
         "pokemon_type_name": "格鬥"
     },
@@ -889,7 +812,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 32,
         "height": 1,
-        "file_name": "/img/pm/37a3edfcf9c5cbdb68bcf8945ff89fe2999e5a30.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1wKfwIy579sBUb6Ut5-cZb8fIusX82CDZ",
         "pokemon_type_id": "fighting",
         "pokemon_type_name": "格鬥"
     },
@@ -900,7 +823,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 19,
         "height": 0.7,
-        "file_name": "/img/pm/333e2aef290059dc46274b77ea4095094784316a.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1_XWcSVxPyMImZNEEnSahY_knSTzBULER",
         "pokemon_type_id": "fire",
         "pokemon_type_name": "火"
     },
@@ -911,7 +834,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 155,
         "height": 1.9,
-        "file_name": "/img/pm/7ef9e71e9dc624e5558d7b4619f75ea8659eff55.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1tQ2ScJj9HsHKTh5j8hC5sBMa8XFZFe1c",
         "pokemon_type_id": "fire",
         "pokemon_type_name": "火"
     },
@@ -922,7 +845,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 12.4,
         "height": 0.6,
-        "file_name": "/img/pm/8e8d47c5af6084904793496ddddb3e5f516e79f7.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1weT1vp9qR_mKrhEObal1tfRPTZi6Kc77",
         "pokemon_type_id": "water",
         "pokemon_type_name": "水"
     },
@@ -933,7 +856,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 20,
         "height": 1,
-        "file_name": "/img/pm/7e16ace7443d45cc1def215c8cf82beefc69041c.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1rPD2LI5SGFUMhrDql9GuynjPWBvNSEEf",
         "pokemon_type_id": "water",
         "pokemon_type_name": "水"
     },
@@ -944,7 +867,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 54,
         "height": 1.3,
-        "file_name": "/img/pm/da2fce266d1c13743742451617b2976d6bfd483d.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1qFrfdSm48JYFBlGSSvS32xQJJ3n9Wv0S",
         "pokemon_type_id": "water,fighting",
         "pokemon_type_name": "水,格鬥"
     },
@@ -955,7 +878,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 19.5,
         "height": 0.9,
-        "file_name": "/img/pm/5d05e6f2393a6a72fb36da26a79fd3db95ae7412.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1FQ2pCbCxw4JwKbnowU19REPm5XVTP8lP",
         "pokemon_type_id": "psychic",
         "pokemon_type_name": "超能力"
     },
@@ -966,7 +889,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 56.5,
         "height": 1.3,
-        "file_name": "/img/pm/96613b8fe63edfdf800cde823078fadc6ea9aae9.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=19mSj73QuSHaHIGQHJ3GmOgIGbkTAkm8G",
         "pokemon_type_id": "psychic",
         "pokemon_type_name": "超能力"
     },
@@ -977,7 +900,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 48,
         "height": 1.5,
-        "file_name": "/img/pm/265d42cf68deea0a54dacf3a4f1953198f55ad53.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1kUBD8PYqRSwl-IgF96zAfVtZStqvARek",
         "pokemon_type_id": "psychic",
         "pokemon_type_name": "超能力"
     },
@@ -988,7 +911,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 48,
         "height": 1.2,
-        "file_name": "/img/pm/6ef57b70dc74663cc1c203d7006e69cbad6bb15f.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1Z6IZ06PbDzaM1J1OQQVg-_qNI-QQYxAd",
         "pokemon_type_id": "psychic",
         "pokemon_type_name": "超能力"
     },
@@ -999,7 +922,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 19.5,
         "height": 0.8,
-        "file_name": "/img/pm/0074c7d90ce7d2a6926d28fe777d2bcb0b4ccb0b.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1lXOXVm-2fE77sGit6CU6VGqhI1p8Ypmk",
         "pokemon_type_id": "fighting",
         "pokemon_type_name": "格鬥"
     },
@@ -1010,7 +933,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 70.5,
         "height": 1.5,
-        "file_name": "/img/pm/634e1c205ab72071fe941043f816a9e2f31db3ae.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1gR9VgJ9W24RY8orQ3nj_I1X3zJ4w__B1",
         "pokemon_type_id": "fighting",
         "pokemon_type_name": "格鬥"
     },
@@ -1021,18 +944,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 130,
         "height": 1.6,
-        "file_name": "/img/pm/8f2f69ae05bd6c76f0d6fe6d03f1e22ec1a8010a.png",
-        "pokemon_type_id": "fighting",
-        "pokemon_type_name": "格鬥"
-    },
-    {
-        "id": "068",
-        "zukan_sub_id": 1,
-        "name": "怪力",
-        "pokemon_sub_name": "超極巨化",
-        "weight": 999.99,
-        "height": 25,
-        "file_name": "/img/pm/aae2243d7c93e2cba33b000fbd92fcb050157d4e.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1okq_O3jhvGsRzcUaLwTd2Q_uSNYIONC_",
         "pokemon_type_id": "fighting",
         "pokemon_type_name": "格鬥"
     },
@@ -1043,7 +955,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 4,
         "height": 0.7,
-        "file_name": "/img/pm/47ae88a63c66e32e957da303ad50b72268e097e4.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1AuIbsGPV8OEz-hdk7GPIFu1iMoHcpoyQ",
         "pokemon_type_id": "grass,poison",
         "pokemon_type_name": "草,毒"
     },
@@ -1054,7 +966,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 6.4,
         "height": 1,
-        "file_name": "/img/pm/b19541cee78bc2a00eb3f59f7a2fcca67469eb78.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1TpA6hxszNqvxWrxxCJBlWYX_8iVoqq2u",
         "pokemon_type_id": "grass,poison",
         "pokemon_type_name": "草,毒"
     },
@@ -1065,7 +977,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 15.5,
         "height": 1.7,
-        "file_name": "/img/pm/f010b09344a212ecb98c6f209233c0661db0e7a8.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1DK7mnLrzbUpZ84yXekZ6_gZEn3HPxfdV",
         "pokemon_type_id": "grass,poison",
         "pokemon_type_name": "草,毒"
     },
@@ -1076,7 +988,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 45.5,
         "height": 0.9,
-        "file_name": "/img/pm/3da5f9c26f39884f5f44a861e6965fdc1722241b.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=10iwvzHw9MfWLl7YB-HFidLdlBI8zea-H",
         "pokemon_type_id": "water,poison",
         "pokemon_type_name": "水,毒"
     },
@@ -1087,7 +999,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 55,
         "height": 1.6,
-        "file_name": "/img/pm/e8720bf3fe40182141dc5f442f5fb83eff544a6e.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=16LYDz9LnjivV7iMjJsMfKEMY_mSpT4Zg",
         "pokemon_type_id": "water,poison",
         "pokemon_type_name": "水,毒"
     },
@@ -1098,7 +1010,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 20,
         "height": 0.4,
-        "file_name": "/img/pm/4b483c95c2124018519380eaa06cc657c5b76a64.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=189ym0dWeLSt6b6_GF5KVzUOVTiCbbgQN",
         "pokemon_type_id": "rock,ground",
         "pokemon_type_name": "岩石,地面"
     },
@@ -1109,7 +1021,7 @@ let data = [
         "pokemon_sub_name": "阿羅拉的樣子",
         "weight": 20.3,
         "height": 0.4,
-        "file_name": "/img/pm/c8870cfb5aae00c6b70d6550721b5bf51c73bf52.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1UxiVOXnyX1J98LNTKjv9ZEuXBFrzMXxD",
         "pokemon_type_id": "rock,electric",
         "pokemon_type_name": "岩石,電"
     },
@@ -1120,7 +1032,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 105,
         "height": 1,
-        "file_name": "/img/pm/f3ae64c5acf41a159e07b63da847cccc773bb184.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1hmM1WbChQdfJuloHaSY3WsceoFGGLC6-",
         "pokemon_type_id": "rock,ground",
         "pokemon_type_name": "岩石,地面"
     },
@@ -1131,7 +1043,7 @@ let data = [
         "pokemon_sub_name": "阿羅拉的樣子",
         "weight": 110,
         "height": 1,
-        "file_name": "/img/pm/c91fbd40a228a6caa5f9b128715790fd536be2d6.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1iWAhKf-9butD5LHiqtq2P8gL3vhZJq3B",
         "pokemon_type_id": "rock,electric",
         "pokemon_type_name": "岩石,電"
     },
@@ -1142,7 +1054,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 300,
         "height": 1.4,
-        "file_name": "/img/pm/02fb8976b07089e975a9911ae2ff1327b5e3340d.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1cBORoFWNcTVdr0vjn4yvwVtO1ju6os1F",
         "pokemon_type_id": "rock,ground",
         "pokemon_type_name": "岩石,地面"
     },
@@ -1153,7 +1065,7 @@ let data = [
         "pokemon_sub_name": "阿羅拉的樣子",
         "weight": 316,
         "height": 1.7,
-        "file_name": "/img/pm/b7df1424a881e4d3232e6dd0ebc9d1908309e588.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1TIBaRV2ZyDxPrMrVBfjqQA3aKZ_pHQXM",
         "pokemon_type_id": "rock,electric",
         "pokemon_type_name": "岩石,電"
     },
@@ -1164,20 +1076,9 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 30,
         "height": 1,
-        "file_name": "/img/pm/dacab2be1777c14ed7da12824dd85c2cdbd2ebf9.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1vfCAwArOaChJRkLSPFl-Z6ryfDl368N0",
         "pokemon_type_id": "fire",
         "pokemon_type_name": "火"
-    },
-    {
-        "id": "077",
-        "zukan_sub_id": 1,
-        "name": "小火馬",
-        "pokemon_sub_name": "伽勒爾的樣子",
-        "weight": 24,
-        "height": 0.8,
-        "file_name": "/img/pm/5dc1659954564f3015fc72060bbd87b98808aed4.png",
-        "pokemon_type_id": "psychic",
-        "pokemon_type_name": "超能力"
     },
     {
         "id": "078",
@@ -1186,20 +1087,9 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 95,
         "height": 1.7,
-        "file_name": "/img/pm/cb874883fcffc227e8d065e275221e1e05ece46c.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1BUSeLZNyCcltw4Om2PCfr01tw41V6kPW",
         "pokemon_type_id": "fire",
         "pokemon_type_name": "火"
-    },
-    {
-        "id": "078",
-        "zukan_sub_id": 1,
-        "name": "烈焰馬",
-        "pokemon_sub_name": "伽勒爾的樣子",
-        "weight": 80,
-        "height": 1.7,
-        "file_name": "/img/pm/ef678c969aef014b48cf390e0e04e3f0096020c9.png",
-        "pokemon_type_id": "psychic,fairy",
-        "pokemon_type_name": "超能力,妖精"
     },
     {
         "id": "079",
@@ -1208,20 +1098,9 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 36,
         "height": 1.2,
-        "file_name": "/img/pm/441132f5cdf87b0e46f96952f16c2dfc75911054.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1jbhFBTnKHs7dUP_y99yG4FKhImPp6ifJ",
         "pokemon_type_id": "water,psychic",
         "pokemon_type_name": "水,超能力"
-    },
-    {
-        "id": "079",
-        "zukan_sub_id": 1,
-        "name": "呆呆獸",
-        "pokemon_sub_name": "伽勒爾的樣子",
-        "weight": 36,
-        "height": 1.2,
-        "file_name": "/img/pm/e1c9ec78e7a009185df15c4defd0db6b0c1a5727.png",
-        "pokemon_type_id": "psychic",
-        "pokemon_type_name": "超能力"
     },
     {
         "id": "080",
@@ -1230,7 +1109,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 78.5,
         "height": 1.6,
-        "file_name": "/img/pm/4d93d1171a1b9551989b17b4ae6838e4e9e98378.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1cV9AkwnQlo9x0SOqDXFWAqrPftTUfV17",
         "pokemon_type_id": "water,psychic",
         "pokemon_type_name": "水,超能力"
     },
@@ -1241,20 +1120,9 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 120,
         "height": 2,
-        "file_name": "/img/pm/b4ff1375aa8d23aff0cc09a2f96773fbdd8e3843.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1uTs0BGRWJiGW3qhUS9hnWuVGDaKOqkD7",
         "pokemon_type_id": "water,psychic",
         "pokemon_type_name": "水,超能力"
-    },
-    {
-        "id": "080",
-        "zukan_sub_id": 2,
-        "name": "呆殼獸",
-        "pokemon_sub_name": "伽勒爾的樣子",
-        "weight": 70.5,
-        "height": 1.6,
-        "file_name": "/img/pm/3862fc122debc9675749142a7c76f1a64dbbc60d.png",
-        "pokemon_type_id": "poison,psychic",
-        "pokemon_type_name": "毒,超能力"
     },
     {
         "id": "081",
@@ -1263,7 +1131,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 6,
         "height": 0.3,
-        "file_name": "/img/pm/8dfff91e7e39b06d0a9fcfb414565b25de55bdf1.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1JhaskluB2lboF57NtOFSCrZK9JZAvoe5",
         "pokemon_type_id": "electric,steel",
         "pokemon_type_name": "電,鋼"
     },
@@ -1274,7 +1142,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 60,
         "height": 1,
-        "file_name": "/img/pm/5f8732c548e90780b660f65926e5567755aa2a6c.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1_k_IWUsYzoZqFIt-qUpKAdLHgEgRy8_p",
         "pokemon_type_id": "electric,steel",
         "pokemon_type_name": "電,鋼"
     },
@@ -1285,20 +1153,9 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 15,
         "height": 0.8,
-        "file_name": "/img/pm/810c4dc60ff4f315216717a2ecaa3c7dfe3fcf09.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1xKfRx5eVKRCkH4VYGzqYl9rMqDtZqEEO",
         "pokemon_type_id": "normal,flying",
         "pokemon_type_name": "一般,飛行"
-    },
-    {
-        "id": "083",
-        "zukan_sub_id": 1,
-        "name": "大蔥鴨",
-        "pokemon_sub_name": "伽勒爾的樣子",
-        "weight": 42,
-        "height": 0.8,
-        "file_name": "/img/pm/47201403d2e427655cb49df00895018ef8d750fd.png",
-        "pokemon_type_id": "fighting",
-        "pokemon_type_name": "格鬥"
     },
     {
         "id": "084",
@@ -1307,7 +1164,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 39.2,
         "height": 1.4,
-        "file_name": "/img/pm/63ff86cee884446925e664d99b82e3e8de988412.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1Lq3eUPBLoPoK60YV8qyt7mG7C9IXdUHj",
         "pokemon_type_id": "normal,flying",
         "pokemon_type_name": "一般,飛行"
     },
@@ -1318,7 +1175,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 85.2,
         "height": 1.8,
-        "file_name": "/img/pm/de41d6a29c38d65f1f39bc5ecb3afe30c5e057eb.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=17SFPSuMT_ZWRWWZ2HvYCo6x6gqaxNBeP",
         "pokemon_type_id": "normal,flying",
         "pokemon_type_name": "一般,飛行"
     },
@@ -1329,7 +1186,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 90,
         "height": 1.1,
-        "file_name": "/img/pm/fc1342f9b5bc761333a44d74dc47ba0ff30ad6c8.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1X176dJ9cn9mbimO8duaGbsJ8vt1DM7RD",
         "pokemon_type_id": "water",
         "pokemon_type_name": "水"
     },
@@ -1340,7 +1197,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 120,
         "height": 1.7,
-        "file_name": "/img/pm/2a2e293a8524ac94136bada7346ddfe57e12e47e.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1YKsVzH6iaFjmDa7P_-HnFNoA3nlRbNYH",
         "pokemon_type_id": "water,ice",
         "pokemon_type_name": "水,冰"
     },
@@ -1351,7 +1208,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 30,
         "height": 0.9,
-        "file_name": "/img/pm/57f22ceb2f8765f927ff3fd1f4b4bf52a7033097.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1oXTygrtR1pt12RXoE8DpmUowCqd7vZRt",
         "pokemon_type_id": "poison",
         "pokemon_type_name": "毒"
     },
@@ -1362,7 +1219,7 @@ let data = [
         "pokemon_sub_name": "阿羅拉的樣子",
         "weight": 42,
         "height": 0.7,
-        "file_name": "/img/pm/61096756c8bfed61fbcc938bd3d964012f00cc89.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1zeLpSHrgoQCxxCk6pWZ9VdNMmk4mwOjp",
         "pokemon_type_id": "poison,dark",
         "pokemon_type_name": "毒,惡"
     },
@@ -1373,7 +1230,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 30,
         "height": 1.2,
-        "file_name": "/img/pm/db91b8849e602828aaff3939f9e0816dd9ce92ab.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1G-ZRDVb6jSDa0_ouQVvRMj8kf-zc48FY",
         "pokemon_type_id": "poison",
         "pokemon_type_name": "毒"
     },
@@ -1384,7 +1241,7 @@ let data = [
         "pokemon_sub_name": "阿羅拉的樣子",
         "weight": 52,
         "height": 1,
-        "file_name": "/img/pm/d83b601f999b3df4c958c5e5bc8f1e5b21b2594b.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1fL8GsK-3RkLXgXej3gYIY3xHDfLwr67W",
         "pokemon_type_id": "poison,dark",
         "pokemon_type_name": "毒,惡"
     },
@@ -1395,7 +1252,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 4,
         "height": 0.3,
-        "file_name": "/img/pm/36918010e6d91103c9017f4ce4d1764c9f145db8.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1UDj5vi4MvkT4YphPiLsfhgSqLSMdOhHG",
         "pokemon_type_id": "water",
         "pokemon_type_name": "水"
     },
@@ -1406,7 +1263,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 132.5,
         "height": 1.5,
-        "file_name": "/img/pm/d5ebac9e1afe16f2a1d16a7593e022fc576aed9e.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1pTkTrheiDyZovLJqSW96kBB1CbGhgeKk",
         "pokemon_type_id": "water,ice",
         "pokemon_type_name": "水,冰"
     },
@@ -1417,7 +1274,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 0.1,
         "height": 1.3,
-        "file_name": "/img/pm/5c619391fb78cbe0d3646a9b76da07372a18580e.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1sI7HWh2QdhcQXOrn0eZkmUhD8A4tqmX5",
         "pokemon_type_id": "ghost,poison",
         "pokemon_type_name": "幽靈,毒"
     },
@@ -1428,7 +1285,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 0.1,
         "height": 1.6,
-        "file_name": "/img/pm/b8bcfb490b9a54a7cfc607ac82f413f4e582cb56.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1wHKW3lLNJDMA30QWloypw8dEI19gYdXY",
         "pokemon_type_id": "ghost,poison",
         "pokemon_type_name": "幽靈,毒"
     },
@@ -1439,7 +1296,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 40.5,
         "height": 1.5,
-        "file_name": "/img/pm/47549471dc54feb8acd4b3de3a27ea8e9e9fd25c.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1BunfIusMOQt22ZH00SCBPRBEQqjssIxn",
         "pokemon_type_id": "ghost,poison",
         "pokemon_type_name": "幽靈,毒"
     },
@@ -1450,18 +1307,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 40.5,
         "height": 1.4,
-        "file_name": "/img/pm/933fa0ef096191382ab20f5d6597ac7f8fbe336a.png",
-        "pokemon_type_id": "ghost,poison",
-        "pokemon_type_name": "幽靈,毒"
-    },
-    {
-        "id": "094",
-        "zukan_sub_id": 2,
-        "name": "耿鬼",
-        "pokemon_sub_name": "超極巨化",
-        "weight": 999.99,
-        "height": 20,
-        "file_name": "/img/pm/fd3052b825dd7dc2d4f78043ecd94b57f9cad36a.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1UezLhVZyQP42Y6DvToZMiqZJvBqKOxk2",
         "pokemon_type_id": "ghost,poison",
         "pokemon_type_name": "幽靈,毒"
     },
@@ -1472,7 +1318,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 210,
         "height": 8.8,
-        "file_name": "/img/pm/134d26303c22ac0e0173bdf5121a3a3aae10e36c.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1w9Pp3n84fCIg5tC5g5yobmcK3CBOjipV",
         "pokemon_type_id": "rock,ground",
         "pokemon_type_name": "岩石,地面"
     },
@@ -1483,7 +1329,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 32.4,
         "height": 1,
-        "file_name": "/img/pm/1d82671099cdd52c4a0b84724d72033d305538bd.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1fU8MrbFFxhXVvF1_5ZuCyEZRX23EjXix",
         "pokemon_type_id": "psychic",
         "pokemon_type_name": "超能力"
     },
@@ -1494,7 +1340,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 75.6,
         "height": 1.6,
-        "file_name": "/img/pm/9d0915f92dac45eca21a50d63799abe53404f7d4.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1HDVEQuRzDsJv4tOJo4ewjE1X0nRSEv12",
         "pokemon_type_id": "psychic",
         "pokemon_type_name": "超能力"
     },
@@ -1505,7 +1351,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 6.5,
         "height": 0.4,
-        "file_name": "/img/pm/15ec38c5c458545368bf8e85da77d49f4b09104d.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1hXqlt0J2gGkpEDzwWlyOekoztAQXDQx9",
         "pokemon_type_id": "water",
         "pokemon_type_name": "水"
     },
@@ -1516,18 +1362,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 60,
         "height": 1.3,
-        "file_name": "/img/pm/04f0bfa98547db408430513e07a15e3655095dca.png",
-        "pokemon_type_id": "water",
-        "pokemon_type_name": "水"
-    },
-    {
-        "id": "099",
-        "zukan_sub_id": 1,
-        "name": "巨鉗蟹",
-        "pokemon_sub_name": "超極巨化",
-        "weight": 999.99,
-        "height": 19,
-        "file_name": "/img/pm/416c9cf7dbb527e3eac9d3b1eff2a98e03016087.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1QgbgNH1h_E0zdl9kk_kLlqiNvkSlEqWL",
         "pokemon_type_id": "water",
         "pokemon_type_name": "水"
     },
@@ -1538,7 +1373,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 10.4,
         "height": 0.5,
-        "file_name": "/img/pm/cfa3cfb38563c9afdb4d6fac40607fa78db97721.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=19-HZwYKj9IGqM56xP2UwytAb1blh3iow",
         "pokemon_type_id": "electric",
         "pokemon_type_name": "電"
     },
@@ -1549,7 +1384,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 66.6,
         "height": 1.2,
-        "file_name": "/img/pm/823f1e2536f6036d7423f17fa4969ecd7cf08e00.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=10v9Ua9rAHP9Epp8155i4L09GaGGrbm9l",
         "pokemon_type_id": "electric",
         "pokemon_type_name": "電"
     },
@@ -1560,7 +1395,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 2.5,
         "height": 0.4,
-        "file_name": "/img/pm/2b23bf26e6063e8fe37a5122a112abb1a475b052.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1WLsGbs7uTBYrFeemI7K6Ci5-Sqc-Pq-a",
         "pokemon_type_id": "grass,psychic",
         "pokemon_type_name": "草,超能力"
     },
@@ -1571,7 +1406,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 120,
         "height": 2,
-        "file_name": "/img/pm/a17a1d3fbeeba958495697c23b287b1966fd11dc.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1eDgRYKGyAo2iZeZzfRGqOweYfFUOzYeY",
         "pokemon_type_id": "grass,psychic",
         "pokemon_type_name": "草,超能力"
     },
@@ -1582,7 +1417,7 @@ let data = [
         "pokemon_sub_name": "阿羅拉的樣子",
         "weight": 415.6,
         "height": 10.9,
-        "file_name": "/img/pm/12017db6ac167715bbdc052ec40ae093e8cb7b7c.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1qSqGr0obaWpQgXtik92Yfy2z8d_whHIg",
         "pokemon_type_id": "grass,dragon",
         "pokemon_type_name": "草,龍"
     },
@@ -1593,7 +1428,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 6.5,
         "height": 0.4,
-        "file_name": "/img/pm/6c44a0ccb922bbb4345214f3fa0b9436a03c11f2.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1g_Oq9FS1ZrkfFDRFckqS-UU36ttmgauD",
         "pokemon_type_id": "ground",
         "pokemon_type_name": "地面"
     },
@@ -1604,7 +1439,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 45,
         "height": 1,
-        "file_name": "/img/pm/1a2a79bce9b5c63de4d6db9b895a34ce6bf6733d.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=10DM5RJLcFkjqjPqd_iWTXirDXfov3cYR",
         "pokemon_type_id": "ground",
         "pokemon_type_name": "地面"
     },
@@ -1615,7 +1450,7 @@ let data = [
         "pokemon_sub_name": "阿羅拉的樣子",
         "weight": 34,
         "height": 1,
-        "file_name": "/img/pm/cce0a0732b1db5e9efba7effa7c51020ed94de60.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=16_TItbZVBAo0XCs6ohqq3-NHkM87-OH0",
         "pokemon_type_id": "fire,ghost",
         "pokemon_type_name": "火,幽靈"
     },
@@ -1626,7 +1461,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 49.8,
         "height": 1.5,
-        "file_name": "/img/pm/3e864b76679d4c2d1e46878dc241e06bdb8f8d1d.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1v3VG2IYnkOjsK24ihJvZs7KsEQKl7sSC",
         "pokemon_type_id": "fighting",
         "pokemon_type_name": "格鬥"
     },
@@ -1637,7 +1472,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 50.2,
         "height": 1.4,
-        "file_name": "/img/pm/6c57fef755afbd6ddda7f3c21f20bb38159494c6.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1OM6_zPtGClrXjuMMscaJ6L9nBprBkJKF",
         "pokemon_type_id": "fighting",
         "pokemon_type_name": "格鬥"
     },
@@ -1648,7 +1483,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 65.5,
         "height": 1.2,
-        "file_name": "/img/pm/fe41bccc4b1fd3c2ab748d09a157e3c0c28c7700.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1bAZvaLt8OznkGy-GwVkJJiuhAFfMB3_j",
         "pokemon_type_id": "normal",
         "pokemon_type_name": "一般"
     },
@@ -1659,7 +1494,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 1,
         "height": 0.6,
-        "file_name": "/img/pm/fd10b57c1ac95c00638aed70b4a41d679e9af2b6.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1-g4pzqGzGgOIINGFO4Q9l-W6LoMTwd0D",
         "pokemon_type_id": "poison",
         "pokemon_type_name": "毒"
     },
@@ -1670,20 +1505,9 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 9.5,
         "height": 1.2,
-        "file_name": "/img/pm/4c76d556bda94f8eb8b73a9e58ef051262e78b7d.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=16YVHL0HDLDirISvGRmbEl1FUtUW96-n3",
         "pokemon_type_id": "poison",
         "pokemon_type_name": "毒"
-    },
-    {
-        "id": "110",
-        "zukan_sub_id": 1,
-        "name": "雙彈瓦斯",
-        "pokemon_sub_name": "伽勒爾的樣子",
-        "weight": 16,
-        "height": 3,
-        "file_name": "/img/pm/c89593cd44d8354c16c11f5fa10143a6a8b4ab1f.png",
-        "pokemon_type_id": "poison,fairy",
-        "pokemon_type_name": "毒,妖精"
     },
     {
         "id": "111",
@@ -1692,7 +1516,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 115,
         "height": 1,
-        "file_name": "/img/pm/8de47e638f274aae17eb13dc5c1e6e36e8224775.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1RjPbXTf2m6uCPEt613DEEf4RyttWwCR1",
         "pokemon_type_id": "ground,rock",
         "pokemon_type_name": "地面,岩石"
     },
@@ -1703,7 +1527,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 120,
         "height": 1.9,
-        "file_name": "/img/pm/2db37f2dc4e86437160294178fd134fb65a1e8c3.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1xH_mOpiEC3vFw7u50GCiMdyUoRgzYJQr",
         "pokemon_type_id": "ground,rock",
         "pokemon_type_name": "地面,岩石"
     },
@@ -1714,7 +1538,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 34.6,
         "height": 1.1,
-        "file_name": "/img/pm/67786c71bc7911f9faa28b01ab1b2cf661d4c28f.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1voe4xyciTt42dFoB1LiKO-169EkJ9BNQ",
         "pokemon_type_id": "normal",
         "pokemon_type_name": "一般"
     },
@@ -1725,7 +1549,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 35,
         "height": 1,
-        "file_name": "/img/pm/e6fdba2d3e167f34a8a75eb7ed3965fb3ddd4df8.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1ynThCCuqy5hEF2odfI6HJUbPL_4gN5g8",
         "pokemon_type_id": "grass",
         "pokemon_type_name": "草"
     },
@@ -1736,7 +1560,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 80,
         "height": 2.2,
-        "file_name": "/img/pm/c959a88d4dd9e2007d466535100ae40439d8ff82.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1G44UMzmWLUzhkLwAe1Aj5BWiQ8XXVVwN",
         "pokemon_type_id": "normal",
         "pokemon_type_name": "一般"
     },
@@ -1747,7 +1571,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 100,
         "height": 2.2,
-        "file_name": "/img/pm/57e3691f703f91a79f5e5448b683c7fa1bc43e0c.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1-9GMk9jnVKMt9GcymOSpi5QNKFT8DtC2",
         "pokemon_type_id": "normal",
         "pokemon_type_name": "一般"
     },
@@ -1758,7 +1582,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 8,
         "height": 0.4,
-        "file_name": "/img/pm/7ef51aff01e21866babb18f14bac42790a65d5db.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1lF6eDqhhfKVc4CoYlHQfvPKijApdYDbR",
         "pokemon_type_id": "water",
         "pokemon_type_name": "水"
     },
@@ -1769,7 +1593,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 25,
         "height": 1.2,
-        "file_name": "/img/pm/cb1a1ab939d93ed0504753e1fbf7a4e180f733d5.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=16CHDz4i6cJGq-UESFmubv68UyJVGu1G2",
         "pokemon_type_id": "water",
         "pokemon_type_name": "水"
     },
@@ -1780,7 +1604,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 15,
         "height": 0.6,
-        "file_name": "/img/pm/266278a59d39e9770b8f34c9a635243133334a28.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1YRfs9VW-xvuYE0Cy_PEVW558cBPqtteF",
         "pokemon_type_id": "water",
         "pokemon_type_name": "水"
     },
@@ -1791,7 +1615,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 39,
         "height": 1.3,
-        "file_name": "/img/pm/f395dd22d77d0a3f298c4bd261a3c56ecfbdace7.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1MeqvbPXYeOB6iF3hWOsY259PyysO-7VJ",
         "pokemon_type_id": "water",
         "pokemon_type_name": "水"
     },
@@ -1802,7 +1626,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 34.5,
         "height": 0.8,
-        "file_name": "/img/pm/2b4031883bcdc61d67e67673af8d893bfa3dba5c.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=11eSPWJ_08yA5BPdfWzN5F2rF5ayPpBii",
         "pokemon_type_id": "water",
         "pokemon_type_name": "水"
     },
@@ -1813,7 +1637,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 80,
         "height": 1.1,
-        "file_name": "/img/pm/6f6ffd1276a2a1fb4aa9843f9e2fed9e79d2ba5f.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1ZSUOf-5QXg9O7AAsAjcy3F9kjvOydz23",
         "pokemon_type_id": "water,psychic",
         "pokemon_type_name": "水,超能力"
     },
@@ -1824,20 +1648,9 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 54.5,
         "height": 1.3,
-        "file_name": "/img/pm/3bf0162c653873e4ecf5810c830191bac19cb540.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=19LLEs0shaoK5dV2-fwtg3XaC0MkNblwA",
         "pokemon_type_id": "psychic,fairy",
         "pokemon_type_name": "超能力,妖精"
-    },
-    {
-        "id": "122",
-        "zukan_sub_id": 1,
-        "name": "魔牆人偶",
-        "pokemon_sub_name": "伽勒爾的樣子",
-        "weight": 56.8,
-        "height": 1.4,
-        "file_name": "/img/pm/2afea7495bb4f1fbaf5519849c735165dc85cf74.png",
-        "pokemon_type_id": "ice,psychic",
-        "pokemon_type_name": "冰,超能力"
     },
     {
         "id": "123",
@@ -1846,7 +1659,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 56,
         "height": 1.5,
-        "file_name": "/img/pm/da1f6bb1f75f73b684a5b6902694912b697f6a4d.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1ryBFOOoC4yQjYeNhthRmpKc_laKQe6HP",
         "pokemon_type_id": "bug,flying",
         "pokemon_type_name": "蟲,飛行"
     },
@@ -1857,7 +1670,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 40.6,
         "height": 1.4,
-        "file_name": "/img/pm/8838c65ba52945317cda0d31f8de760860dd71ec.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1BvTWaGRv2SCXkTERYya2_-3vmpl78T7a",
         "pokemon_type_id": "ice,psychic",
         "pokemon_type_name": "冰,超能力"
     },
@@ -1868,7 +1681,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 30,
         "height": 1.1,
-        "file_name": "/img/pm/af28498e1bd42cb316b6e2fa0c34b68f2ce89ce8.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1QdGTHulMnxeGM2rJzxWOqxQnm5OmD-aW",
         "pokemon_type_id": "electric",
         "pokemon_type_name": "電"
     },
@@ -1879,7 +1692,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 44.5,
         "height": 1.3,
-        "file_name": "/img/pm/fd5333ca5e2c3de321183c65cf30536cfcd478b0.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1V0Eust7B3kv3azrbl5_GYnKl51foKqi2",
         "pokemon_type_id": "fire",
         "pokemon_type_name": "火"
     },
@@ -1890,7 +1703,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 55,
         "height": 1.5,
-        "file_name": "/img/pm/46dc016521478f4d19e78f6547dd58420a793657.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1EDXR1v2GnLOdlPesOjxHcIXSev5dQZKX",
         "pokemon_type_id": "bug",
         "pokemon_type_name": "蟲"
     },
@@ -1901,7 +1714,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 59,
         "height": 1.7,
-        "file_name": "/img/pm/89a433428cd759afbc0bd29564de8dda00093900.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1PPQ3gQJeCI6wPQ-JHKZftPlYrV5DYZFd",
         "pokemon_type_id": "bug,flying",
         "pokemon_type_name": "蟲,飛行"
     },
@@ -1912,7 +1725,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 88.4,
         "height": 1.4,
-        "file_name": "/img/pm/a0b41d9051cb5c540734d103964d7791105dd243.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1vpmrZm7Rj6eoYujoD6enETv4ua-gYP3K",
         "pokemon_type_id": "normal",
         "pokemon_type_name": "一般"
     },
@@ -1923,7 +1736,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 10,
         "height": 0.9,
-        "file_name": "/img/pm/3755f6d1176c7f8c64f663dae13ef9f1406d007a.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=19u-nEKkommBCPJKWL60x513Uis7fJJyl",
         "pokemon_type_id": "water",
         "pokemon_type_name": "水"
     },
@@ -1934,7 +1747,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 235,
         "height": 6.5,
-        "file_name": "/img/pm/ee070a971884e2c4da87d7a728e5821f9636f56d.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1B0HFbQZSMZZf-mUGRaIA0W3jP-XGUaON",
         "pokemon_type_id": "water,flying",
         "pokemon_type_name": "水,飛行"
     },
@@ -1945,7 +1758,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 305,
         "height": 6.5,
-        "file_name": "/img/pm/d1b4b9ec796de5d101e85258987036767c37a34b.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=11HosSeP8a2hMrKJTobK0G3WlD7V1QbnZ",
         "pokemon_type_id": "water,dark",
         "pokemon_type_name": "水,惡"
     },
@@ -1956,18 +1769,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 220,
         "height": 2.5,
-        "file_name": "/img/pm/1583b45023aabc829f405629e4b0d7259f80a2c0.png",
-        "pokemon_type_id": "water,ice",
-        "pokemon_type_name": "水,冰"
-    },
-    {
-        "id": "131",
-        "zukan_sub_id": 1,
-        "name": "拉普拉斯",
-        "pokemon_sub_name": "超極巨化",
-        "weight": 999.99,
-        "height": 24,
-        "file_name": "/img/pm/6e43dd3197089822e9e58699a99676363ffd16f2.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1c0KktDX5EbW00fNd4E7sTGTJYi0yxPB_",
         "pokemon_type_id": "water,ice",
         "pokemon_type_name": "水,冰"
     },
@@ -1978,7 +1780,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 4,
         "height": 0.3,
-        "file_name": "/img/pm/5f27124544444c7565d9dc54c3227f3970aa7454.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1AkiTPWUbDevWeQzvMVg4E3j0eWU9YA2d",
         "pokemon_type_id": "normal",
         "pokemon_type_name": "一般"
     },
@@ -1989,18 +1791,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 6.5,
         "height": 0.3,
-        "file_name": "/img/pm/1fab9d9b86c9071e3f10c14b7869e3ec338f1429.png",
-        "pokemon_type_id": "normal",
-        "pokemon_type_name": "一般"
-    },
-    {
-        "id": "133",
-        "zukan_sub_id": 1,
-        "name": "伊布",
-        "pokemon_sub_name": "超極巨化",
-        "weight": 999.99,
-        "height": 18,
-        "file_name": "/img/pm/0aed951c7741d950dd6178eebc6def543baf7c16.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1VQsXXB8cYz6oPFAinx9Z9DpkFhcln1r8",
         "pokemon_type_id": "normal",
         "pokemon_type_name": "一般"
     },
@@ -2011,7 +1802,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 29,
         "height": 1,
-        "file_name": "/img/pm/6a744cd8a7461d218c7dab0ff084cad30c4c6872.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=19pjp_ri7cNAT7SIkb6q8Sds4Pzez2_Tr",
         "pokemon_type_id": "water",
         "pokemon_type_name": "水"
     },
@@ -2022,7 +1813,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 24.5,
         "height": 0.8,
-        "file_name": "/img/pm/117467cd6471aded1857f44f639965cc3305c4af.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=12LurrIUYK9Eyys6TIhVEnXMgXQB63zXN",
         "pokemon_type_id": "electric",
         "pokemon_type_name": "電"
     },
@@ -2033,7 +1824,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 25,
         "height": 0.9,
-        "file_name": "/img/pm/c837f7f95ed1870458db055583e78c33152c556e.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1VhwwV7304krf8ddheNYjENTc8Q8YeP6r",
         "pokemon_type_id": "fire",
         "pokemon_type_name": "火"
     },
@@ -2044,7 +1835,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 36.5,
         "height": 0.8,
-        "file_name": "/img/pm/211c6c26da2a55b6717119f26bb74a6db7dc9b21.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1kNBPArrwNOHPUKFQXE751emDu85BhPvT",
         "pokemon_type_id": "normal",
         "pokemon_type_name": "一般"
     },
@@ -2055,7 +1846,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 7.5,
         "height": 0.4,
-        "file_name": "/img/pm/1f2291efe7407a5585b30792e7b81829cc120a0b.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1lDE0pvwLlpNxtfZViDrQMhY7ACjCwTXW",
         "pokemon_type_id": "rock,water",
         "pokemon_type_name": "岩石,水"
     },
@@ -2066,7 +1857,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 35,
         "height": 1,
-        "file_name": "/img/pm/c9b99543b14fc3859bb695d3f45d2e38163aacc0.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1SjxLLnDNo2AgVf0IFJ7K1NTm3iCSVvpB",
         "pokemon_type_id": "rock,water",
         "pokemon_type_name": "岩石,水"
     },
@@ -2077,7 +1868,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 11.5,
         "height": 0.5,
-        "file_name": "/img/pm/f0757ab6ec3fa6574202a4d1646e2967bbe6fd03.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1_Dpvh2TTkOz_GBmxMEfAs15jjRCfjM54",
         "pokemon_type_id": "rock,water",
         "pokemon_type_name": "岩石,水"
     },
@@ -2088,7 +1879,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 40.5,
         "height": 1.3,
-        "file_name": "/img/pm/b27f8689027a59c36e875834453df03f4b200ce9.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1sd3L3tEjgD3aNjzoC9tOuJghJYE7_Or6",
         "pokemon_type_id": "rock,water",
         "pokemon_type_name": "岩石,水"
     },
@@ -2099,7 +1890,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 59,
         "height": 1.8,
-        "file_name": "/img/pm/0fa47ef9ac7be2f3c447e538152c69e9e2bd3720.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1C9SNTybeHRlNCrn8m4lQzzqdSxxd-6zX",
         "pokemon_type_id": "rock,flying",
         "pokemon_type_name": "岩石,飛行"
     },
@@ -2110,7 +1901,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 79,
         "height": 2.1,
-        "file_name": "/img/pm/f6e2a0e9814acc73d4e030556be5ab833f6252ea.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1Fg9dN5tKrptfrQK1VG3ASXmnuP26AOmf",
         "pokemon_type_id": "rock,flying",
         "pokemon_type_name": "岩石,飛行"
     },
@@ -2121,18 +1912,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 460,
         "height": 2.1,
-        "file_name": "/img/pm/a42f1e83fdb6809384f2461670a1d81e227df05c.png",
-        "pokemon_type_id": "normal",
-        "pokemon_type_name": "一般"
-    },
-    {
-        "id": "143",
-        "zukan_sub_id": 1,
-        "name": "卡比獸",
-        "pokemon_sub_name": "超極巨化",
-        "weight": 999.99,
-        "height": 35,
-        "file_name": "/img/pm/e99ca6d9cc9aba368a07319a392659508d44c12e.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1Q-VV8sRtEuCCo3D1DXBgjzOSti9h5Zha",
         "pokemon_type_id": "normal",
         "pokemon_type_name": "一般"
     },
@@ -2143,20 +1923,9 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 55.4,
         "height": 1.7,
-        "file_name": "/img/pm/a1b9576b6cf4bde4abeb391af3b55c5370205557.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=13VAosAp1HD5YfPnUMTsIIFjNbUD3MnEt",
         "pokemon_type_id": "ice,flying",
         "pokemon_type_name": "冰,飛行"
-    },
-    {
-        "id": "144",
-        "zukan_sub_id": 1,
-        "name": "急凍鳥",
-        "pokemon_sub_name": "伽勒爾的樣子",
-        "weight": 50.9,
-        "height": 1.7,
-        "file_name": "/img/pm/f792fb3e98937419d426f9d8de19b8f1eebc7454.png",
-        "pokemon_type_id": "psychic,flying",
-        "pokemon_type_name": "超能力,飛行"
     },
     {
         "id": "145",
@@ -2165,20 +1934,9 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 52.6,
         "height": 1.6,
-        "file_name": "/img/pm/427bb0b94b44ff442449cfba55dc6829df76891c.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1GFy9-L4XkomAUrhCYGLjNFwS9sVD4v-A",
         "pokemon_type_id": "electric,flying",
         "pokemon_type_name": "電,飛行"
-    },
-    {
-        "id": "145",
-        "zukan_sub_id": 1,
-        "name": "閃電鳥",
-        "pokemon_sub_name": "伽勒爾的樣子",
-        "weight": 58.2,
-        "height": 1.6,
-        "file_name": "/img/pm/c8ca1d916272be90a24dd4da66a27e3ae70d8fd5.png",
-        "pokemon_type_id": "fighting,flying",
-        "pokemon_type_name": "格鬥,飛行"
     },
     {
         "id": "146",
@@ -2187,20 +1945,9 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 60,
         "height": 2,
-        "file_name": "/img/pm/9d83c451429ae1858ff1588ba5724ffbad4b55c1.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1jkOzOt7I92Jm1vGPply99ib3gioN2UDn",
         "pokemon_type_id": "fire,flying",
         "pokemon_type_name": "火,飛行"
-    },
-    {
-        "id": "146",
-        "zukan_sub_id": 1,
-        "name": "火焰鳥",
-        "pokemon_sub_name": "伽勒爾的樣子",
-        "weight": 66,
-        "height": 2,
-        "file_name": "/img/pm/9b19c3a602a800d162bc3f7549804b721186f1b6.png",
-        "pokemon_type_id": "dark,flying",
-        "pokemon_type_name": "惡,飛行"
     },
     {
         "id": "147",
@@ -2209,7 +1956,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 3.3,
         "height": 1.8,
-        "file_name": "/img/pm/27a6cc8fdc7abc93def1b061b582dac7a93430c1.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1guBVUW5sLdou-ZWw2ni-72jMX-u1raZp",
         "pokemon_type_id": "dragon",
         "pokemon_type_name": "龍"
     },
@@ -2220,7 +1967,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 16.5,
         "height": 4,
-        "file_name": "/img/pm/f6ae3010972469372d493e3cc4a516c574df3974.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1drlgY1MaGiGOI2nFaThDvQKWM4ky1lZs",
         "pokemon_type_id": "dragon",
         "pokemon_type_name": "龍"
     },
@@ -2231,7 +1978,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 210,
         "height": 2.2,
-        "file_name": "/img/pm/ecdc5527d67488c92c242e34458844fe2afac525.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1siMChYOqCYKy1cO7nzPs7FmUY3pDGjhX",
         "pokemon_type_id": "dragon,flying",
         "pokemon_type_name": "龍,飛行"
     },
@@ -2242,7 +1989,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 122,
         "height": 2,
-        "file_name": "/img/pm/ad7ffb53f984a6623c53f01cfbc06fc8565ecbd4.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1D6ASDj43p2HXR-PuLqpI3da7IN-nTInH",
         "pokemon_type_id": "psychic",
         "pokemon_type_name": "超能力"
     },
@@ -2253,7 +2000,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 127,
         "height": 2.3,
-        "file_name": "/img/pm/dc96945bf5cb7f776f0272bf17ebf0d4593a5849.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1_Bq2cLM5k9Fd2Q3IbilBN3op9PEFCc_u",
         "pokemon_type_id": "psychic,fighting",
         "pokemon_type_name": "超能力,格鬥"
     },
@@ -2264,7 +2011,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 33,
         "height": 1.5,
-        "file_name": "/img/pm/86a8f44da4fc7f15b98716ef69d6b794f15d15e7.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1bl8a1VwNZVclMJE72UR08X9X12PbfyLq",
         "pokemon_type_id": "psychic",
         "pokemon_type_name": "超能力"
     },
@@ -2275,7 +2022,7 @@ let data = [
         "pokemon_sub_name": "",
         "weight": 4,
         "height": 0.4,
-        "file_name": "/img/pm/3373da1ae6e9a429e7fc8dbad72bf5f4726eb13b.png",
+        "file_name": "https://drive.google.com/uc?export=view&id=1JXgjGFaTsSgu7DMY80QbUxKNhMFT953E",
         "pokemon_type_id": "psychic",
         "pokemon_type_name": "超能力"
     },

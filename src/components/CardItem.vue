@@ -1,7 +1,7 @@
 <template>
   <div class="card">
     <div>
-      <img :src="img" alt="picture of pokemon" width="300" height="300" />
+      <img :src="pokemon.file_name" alt="picture of pokemon" width="300" height="300" />
     </div>
     <div>
       <div class="types">
@@ -29,7 +29,7 @@ export default {
       let imgId = this.pokemon.id.toString();
       if (this.pokemon.zukan_sub_id !== 0)
         imgId += `-${this.pokemon.zukan_sub_id}`;
-      return `/images/pokemons/${imgId}.png`;
+      return `@/assets/pokemons/${imgId}.png`;
     },
     
   },
