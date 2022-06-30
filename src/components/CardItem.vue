@@ -5,11 +5,7 @@
     </div>
     <div>
       <div class="types">
-        <TypeItem
-          v-for="t in pokemon.pokemon_type_name.split(',')"
-          :key="t"
-          :type="t"
-        ></TypeItem>
+        <TypeItem v-for="t in pokemon.pokemon_type_name.split(',')" :key="t" :type="t"></TypeItem>
       </div>
       <div class="name">{{ pokemon.name }}</div>
     </div>
@@ -26,12 +22,9 @@ export default {
   components: { TypeItem },
   computed: {
     img() {
-      let imgId = this.pokemon.id.toString();
-      if (this.pokemon.zukan_sub_id !== 0)
-        imgId += `-${this.pokemon.zukan_sub_id}`;
-      return `@/assets/pokemons/${imgId}.png`;
+      return this.pokemon.file_name;
     },
-    
+
   },
 };
 </script>
@@ -53,7 +46,7 @@ export default {
     border-color: red;
   }
 
-  > div:first-child {
+  >div:first-child {
     flex: 1;
     display: flex;
     justify-content: center;

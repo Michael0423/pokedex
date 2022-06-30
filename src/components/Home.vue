@@ -1,38 +1,30 @@
 <template>
-  <div class="nav-bar">
-    <div>
-      <a href="#">Sign Up</a>
-    </div>
-    <div>
-      <a href="#">Sign In</a>
-    </div>
-  </div>
-  <SearchBar @filter="filter"></SearchBar>
   <div>每頁筆數:<select v-model="size" @change="changeSize">
-    <option value="8">8</option>
-    <option value="10">10</option>
-    <option value="50">50</option>
-    <option value="100">100</option>
-  </select></div>
-  <div class="card-list">
-    <CardItem v-for="(p, index) in list" :key="index" :pokemon="p"></CardItem>
-  </div>
+      <option value="8">8</option>
+      <option value="10">10</option>
+      <option value="50">50</option>
+      <option value="100">100</option>
+    </select></div>
+
   <div class="btn-area">
     <button @click="onPrev">上一頁</button>
     <button @click="onNext">下一頁</button>
   </div>
+
+  <div class="card-list">
+    <CardItem v-for="p in list" :key="p.id + '-' + p.zukan_sub_id" :pokemon="p"></CardItem>
+  </div>
+
 </template>
 
 <script>
 import CardItem from "./CardItem.vue";
-import SearchBar from "./SearchBar.vue";
 import Pokemons from "../data.js";
 
 export default {
   name: "HomePage",
   components: {
     CardItem,
-    SearchBar   
   },
   data: function () {
     return {
@@ -50,7 +42,7 @@ export default {
   },
   methods: {
     refreash() {
-        let keyword = this.search.keyword;
+      let keyword = this.search.keyword;
       let size = +this.size;
       let s = (this.page - 1) * size;
       let filterData = (keyword)
@@ -71,12 +63,12 @@ export default {
       this.refreash();
     },
     filter(search) {
-        this.search = search;
-        this.refreash();
-    },  
+      this.search = search;
+      this.refreash();
+    },
     changeSize() {
-        this.page = 1;
-        this.refreash();
+      this.page = 1;
+      this.refreash();
     }
   },
 };
@@ -87,7 +79,7 @@ export default {
   display: flex;
   justify-content: flex-end;
 
-  > div {
+  >div {
     margin: 0 5px;
   }
 }
