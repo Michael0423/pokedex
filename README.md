@@ -31,3 +31,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## 資料&圖片來源
 
 [https://tw.portal-pokemon.com/play/pokedex](https://tw.portal-pokemon.com/play/pokedex)
+
+## 部署專案至 Github Page
+
+deploy.sh 檔案為部屬用腳本。開啟 Git Bash，並移動至專案資料夾下後執行以下指令即可部署
+
+```cmd
+sh deploy.sh
+```
