@@ -1,8 +1,8 @@
 <template>
-  <div>
-    <input type="text" v-model="keyword">
-    <input type="button" value="搜尋" @click="search">
-  </div>
+    <div>
+        <input type="text" v-model="keyword" @change="search">
+        <input type="button" value="搜尋" @click="search">
+    </div>
 </template>
 
 <script>
@@ -26,5 +26,4 @@ export default {
 </script>
 
 <style>
-
 </style>

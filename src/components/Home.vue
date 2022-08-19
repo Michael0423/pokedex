@@ -1,10 +1,18 @@
 <template>
-  <div>每頁筆數:<select v-model="size" @change="changeSize">
-      <option value="8">8</option>
-      <option value="10">10</option>
-      <option value="50">50</option>
-      <option value="100">100</option>
-    </select></div>
+  <div style="display: flex; justify-content: space-between;">
+    <div> 每頁筆數:
+      <select v-model="size" @change="changeSize">
+        <option value="8">8</option>
+        <option value="10">10</option>
+        <option value="50">50</option>
+        <option value="100">100</option>
+      </select>
+    </div>
+    <div>
+      <SearchBar @filter="filter"></SearchBar>
+    </div>
+
+  </div>
 
   <div class="btn-area">
     <button @click="onPrev">上一頁</button>
@@ -20,11 +28,13 @@
 <script>
 import CardItem from "./CardItem.vue";
 import Pokemons from "../data.js";
+import SearchBar from "./SearchBar.vue";
 
 export default {
   name: "HomePage",
   components: {
     CardItem,
+    SearchBar
   },
   data: function () {
     return {
@@ -63,6 +73,7 @@ export default {
       this.refreash();
     },
     filter(search) {
+      this.page = 1;
       this.search = search;
       this.refreash();
     },
